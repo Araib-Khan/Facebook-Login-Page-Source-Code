@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    height: 50vh;
+}
+.div-1{
+    margin-right: 600px;
+    
+}
+.p-1{
+    margin-left: 260px;
+    font-size: 28px;
+}
+.logo{
+    margin-left: 260px;
+    color:#1877f2;
+    font-weight: bolder;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-bottom: 15px;  
+}
+
+.div-2{
+    border-color: #606770;
+    box-shadow: 2px 2px 2px 2px lightgray;
+    margin-right: 300px;
+    margin-left: 800px;
+}
+.SP{
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.fieldset{
+    margin-top: -200px;
+    border: none;
+    background-color: white;
+    
+}
+.p-2{
+    background-color: white;
+    padding-left: 15px;
+    color: #606770;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.name{
+    margin-top: 15px;
+    border-radius: 5px;
+    border:1px solid #949697;
+    margin-right: 0px;
+    margin-left: 15px;
+    width: 43%;
+    height: 30px;
+    text-indent: 12px;
+}
+.number{
+    margin-top: 10px;
+    width: 90%;
+    border-radius: 5px;
+    margin-left: 15px;
+    height: 30px;
+    text-indent: 12px;
+    border: 1px solid #949697;
+}
+
+input::placeholder{
+    padding-left: 5px;
+    color: #9da2a9;
+    text-indent: 8px;
+
+}
+
+.p-3{
+    background-color: white;
+    padding-left: 15px;
+    margin-top: 5px;
+    color: #606770;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-bottom: 10px; 
+    margin-bottom: -7px;
+}
+.select-1{
+    width: 27%;
+    margin-left: 15px;
+    height: 30px;
+    border: 1px solid #949697;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+.div-3{
+    background-color: white;
+}
+.div-3 p{
+    border-radius: 5px;
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+    display: inline-block;
+    width: 25.5%;
+    height: 25px;
+    margin-left: 15px;
+    border:1px solid #949697;
+}
+.password{
+    margin-top: 10px;
+    width: 90%;
+    border:1px solid #949697;
+    border-radius: 5px;
+    margin-left: 15px;
+    height: 30px;
+    margin-bottom: 10px;
+    text-indent: 12px;
+}
+.sp{
+    background-color: white;
+    color: blue;
+}
+.qlogo{
+    width: 2.5%;
+}
+.p-4{
+    background-color: white;
+    padding-left: 15px;
+    margin-top: 5px;
+    color: #606770;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-bottom: 10px;  
+    margin-bottom: -7px;
+}
+.p-5{
+    padding-top: 10px;
+    background-color: white;
+    padding-left: 15px;
+    margin-top: 5px;
+    color: #606770;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding-bottom: 10px; 
+}
+.button{
+    margin-top: 10px;
+    margin-left: 30%;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color:#42b72a;
+    color: white;
+    font-weight: bolder;
+    border:1px solid #42b72a;
+    margin-bottom: 25px;
+    margin-right: 70%;
+    width: 35%;
+    height: 30px;
+}
+.button:hover{
+    cursor: pointer;
+}
